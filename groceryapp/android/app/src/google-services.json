@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768599766751",
+    "project_id": "groceryapp-d8ce3",
+    "storage_bucket": "groceryapp-d8ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768599766751:android:b8867f2a28ee7634351b6a",
+        "android_client_info": {
+          "package_name": "ionic.groceryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlMrOsH2AxbE8mxYMcns91lzj10l5NYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
